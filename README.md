@@ -15,8 +15,8 @@ Desafio realizado durante o módulo de JavaScript intermediário - no curso DevQ
 
 ### Desktop Preview
 
-![](./src/images/carrossel-de-imagens-desktop.png)
+![](./design/carrossel-de-imagens-desktop.gif)
 
 ### Mobile Preview
 
-![](./src/images/carrossel-de-imagens-mobile.png)
+![](./design/carrossel-de-imagens-mobile.gif)
